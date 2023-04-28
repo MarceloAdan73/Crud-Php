@@ -1,7 +1,7 @@
 <?php
 
 function conexion(){
-    $conexion=mysqli_connect('localhost','root','','bd-crud');
+    $conexion=mysqli_connect('localhost','id20648625_marcelo93','hLMKK232wn>-]TM','id20648625_baseunomar7');
     return $conexion;
 }
 
