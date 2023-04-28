@@ -1,0 +1,3 @@
+[build]
+  command = "composer install && php artisan migrate --force"
+  publish = "public/"
