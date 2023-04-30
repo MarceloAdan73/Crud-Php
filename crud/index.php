@@ -19,7 +19,7 @@
     <div class="row p-1">
       <div class="col-3 pe-1">
         <form action="acciones/insertar.php" method="POST" enctype="multipart/form-data">
-          <h3 class="text-center">Registro Persona</h3>
+          <h3 class="text-center">Registro / Persona</h3>
           <label for="">Nombre</label>
           <input class="form-control" type="text" name="nombre">
           <label for="">Email</label>
