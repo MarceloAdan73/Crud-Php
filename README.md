@@ -1,6 +1,6 @@
 Sistema "CRUD" para escritorio, desarrollado con PHP y conectado a una base de datos Mysql. Este CRUD puede crear, leer, actualizar y eliminar registros en una tabla de la base de datos utilizando consultas SQL y PHP.
 
-[imagen del proyecto](./crud.png)
+<img src="./crud.png" alt="imagen del proyecto">
 
-🔗 <a href="https://unsummoned-disabili.000webhostapp.com/Crud-Php/crud/index.php">Ver Demo</a>
+
 
